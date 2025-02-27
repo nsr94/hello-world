@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
 
-    <label for="Nsr"><b>Naam bharo apna</b></label>
+    <label for="Nsr"><b>Thakur saab naam daliye apne</b></label>
     <input type="text" placeholder="NSR" name="Nsr" id="Nsr" required>
     <br>
      
