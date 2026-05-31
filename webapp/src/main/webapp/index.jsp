@@ -51,7 +51,7 @@
         <textarea id="address" name="address" class="input-field" required></textarea><br>
 
         <label for="branch">Branch:</label>
-        <input type="text" id="branch" name="branch" class="input-field" required><br>
+        <input type="text" id="branch" name="branch" class="input-field" required>
 
         <label for="year">Year:</label>
         <input type="text" id="year" name="year" class="input-field" required><br>
